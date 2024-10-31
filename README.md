@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamima-nasrin10&label=Profile%20views&color=0e75b6&style=flat" alt="shamima-nasrin10" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Web and Mobile App Development using Spring Boot, Android & Flutter**
 
 - 💬 Ask me about **JavaScript, Java, Angular, Android, SpringBoot**
 
